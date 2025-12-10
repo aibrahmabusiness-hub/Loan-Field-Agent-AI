@@ -1,0 +1,7 @@
+{
+  "name": "Loan Field Agent AI",
+  "description": "A mobile-first application for loan field agents to capture data via voice or text, extracting structured loan information and generating task lists using Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
